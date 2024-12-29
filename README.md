@@ -24,27 +24,6 @@ ResumeElevate streamlines the job application process by analyzing resumes, high
 
 
 
-## **Usage**  
-1. Open the application in your browser at `http://localhost:3000`.  
-2. Upload your resume and job description.  
-3. View the analysis, suggestions, and ATS score.  
-4. Download your optimized resume with one click.
-
-
-## **Tech Stack**  
-- **Frontend**: React.js, Tailwind CSS  
-- **Backend**: Node.js, Express.js  
-- **Database**: MongoDB  
-- **File Parsing**: pdf-parse  
-- **Deployment**: Vercel (frontend), Render (backend)  
-
-
-## **Roadmap**  
-1. Integration with LinkedIn for easy resume imports.  
-2. Multi-language support.  
-3. Advanced AI-driven keyword suggestions.  
-4. Mobile app version for on-the-go optimization.  
-
 
 ## **Contributing**  
 We welcome contributions! Please fork the repository, make changes, and submit a pull request.  
