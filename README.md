@@ -53,12 +53,6 @@ To empower job seekers by making resume optimization effortless, ensuring that n
 
 ---
 
-## **Contact Us**  
-
-Have questions or feedback? Reach out to us:  
-- **Email**: support@resumeelevate.com  
-- **Follow Us**: [LinkedIn](https://www.linkedin.com/company/resumeelevate) | [Twitter](https://twitter.com/resumeelevate)  
-
 ---
 
 ## **Join the ResumeElevate Revolution**  
